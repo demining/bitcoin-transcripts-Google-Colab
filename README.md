@@ -1,5 +1,14 @@
 # Bitcoin Transcripts Website
 
+
+-------------------------
+### Run Google Colab
+
+https://colab.research.google.com/drive/1OShIMVcFZ_khsUIBOIV1lzrqAGo1gfm_?usp=sharing
+
+-------------------------
+
+
 A static [Hugo](https://gohugo.io/) site for hosting [btctranscripts.com](https://btctranscripts.com).
 
 This repository is not the home of the transcripts themselves, which are pulled in as a git submodule. If wishing to add or modify a transcript, your contributions are welcome at [bitcointranscripts](https://github.com/bitcointranscripts/bitcointranscripts).
